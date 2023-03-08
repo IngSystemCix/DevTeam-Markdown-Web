@@ -15,6 +15,3 @@
 3. Do another step.
 
 - [@Ronal James tiene la culpa](https://github.com/Jamesllm)
-## hola mundo
-# hola mundo
-# MUNDO HOLA
