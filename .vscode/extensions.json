@@ -1,5 +1,5 @@
 {
-  "Extensiones_recomendadas": [
+  "recommendations": [
     "GitHub.vscode-pull-request-github",
     "eamodio.gitlens",
     "ritwickdey.LiveServer",
