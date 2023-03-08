@@ -12,6 +12,4 @@
    >-------
    >This is note text.
 
-3. Do another step.
-
 - [@Ronal James tiene la culpa](https://github.com/Jamesllm)
