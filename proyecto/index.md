@@ -15,5 +15,3 @@
 3. Do another step.
 
 - [@Ronal James tiene la culpa](https://github.com/Jamesllm)
-
-## SOLO EN LA VIDA
