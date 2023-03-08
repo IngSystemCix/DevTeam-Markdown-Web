@@ -9,7 +9,7 @@
 2. This is the fourth step.
 
    >[!NOTE]
-   >
+   >-------
    >This is note text.
 
 3. Do another step.
