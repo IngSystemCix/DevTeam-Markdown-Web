@@ -3,7 +3,7 @@
 1.	Bustamante Inoach, Cesar Abel
 2.	Cubas Parra, Abner Atali
 3.	Estrada Quiroz, Andrés Eduardo
-4.	Ibañez Cornejo, Anthony Daniel 
+4.	Ibañez Cornejo, Anthony Daniel (no tiene Github)
 5.	Ibañez Chanamé, Ralph Junior
 6.	Llapapasca Montes, Ronal James
 7.	Matos Vitte, Gerald Kenneth
