@@ -1,4 +1,6 @@
 # DEVTEAM - PROYECT MARKDOWN
 
-#hola mi gente :3
-# que tal
+* Inicio
+* Acerca del evento
+* Patrocinadores
+* Contacto
