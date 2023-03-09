@@ -13,4 +13,4 @@
 
 **APLICACION**: Consiste no solo en una base de datos con la información clave de los postulantes, como antecedentes penales o educación, sino también en una serie de preguntas que el usuario debe responder para identificar al candidato más acorde con su postura. 
 
-![Resultado en el mapa](../proyecto/IMG/mobil2.png)
+![Resultado en el mapa](../proyecto/IMG/mobil2.jpg)
