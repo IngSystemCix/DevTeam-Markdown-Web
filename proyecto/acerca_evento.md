@@ -26,6 +26,7 @@ Pueden participar equipos de mínimo 4 y máximo 5 personas. Los integrantes deb
 * Hackathon (etapa de desarrollo; presentación de propuestas y elección de finalistas; sustentación de finalistas, resultados y premiación)
 ## **¿Cómo pueden inscribirse?**
 Revisar bases [aquí](#) 
+
 Registrar su inscripción, los equipos interesados deberán completar el formulario [aquí](#)
 ## **¿Cuáles son los premios?** 
 **Premio 1:** xxx
