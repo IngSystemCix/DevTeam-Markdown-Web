@@ -29,5 +29,6 @@ Revisar bases [aquí](#)
 Registrar su inscripción, los equipos interesados deberán completar el formulario [aquí](#)
 ## **¿Cuáles son los premios?** 
 **Premio 1:** xxx
+
 **Premio 2:** xxxx
 
