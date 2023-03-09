@@ -4,7 +4,7 @@
 
 1.	Bustamante Inoach, Cesar Abel (GitHub: AbelBusi)
 2.	Cubas Parra, Abner Atali (GitHub: abne3r)
-3.	Estrada Quiroz, Andrés Eduardo (no tiene GitHub)
+3.	Estrada Quiroz, Andrés Eduardo (GitHub: Andresito19)
 4.	Ibañez Cornejo, Anthony Daniel (no tiene GitHub)
 5.	Ibañez Chanamé, Ralph Junior (GitHub: junior-iba1904)
 6.	Llapapasca Montes, Ronal James (GitHub: Jamesllm)
