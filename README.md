@@ -17,5 +17,6 @@
 13.	Romero Collazos, Juan Bladimir (GitHub: INGSISTEMA)
 14.	Salazar Soplaouco, Franco Alexis (GitHub: Ale3P)
 15.	Sanandres Vela, Juan Piero Aarón (GitHub: Dark-JuanpiDev)
-16.	Vasquez Villegas, Kevin Jeferson (GitHub: kevin11jeferson)
-17.	Vera Fernandez, Angel Fabian (GitHub: TheMoshe)
+16. Sanchez Silva, Jesus Alexander (GitHub: TheYisus18)
+17.	Vasquez Villegas, Kevin Jeferson (GitHub: kevin11jeferson)
+18.	Vera Fernandez, Angel Fabian (GitHub: TheMoshe)
