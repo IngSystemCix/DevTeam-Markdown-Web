@@ -1,6 +1,7 @@
 # DEVTEAM - PROYECT MARKDOWN
 ## 3ra EDICION (2021) - AREQUIPA
 ![Ganadores de la hackaton](../proyecto/IMG/tercera_edicion.png)
+
 **RETO: Crear una aplicativo que permita a las mujeres alertar de manera rápida a las autoridades o a sus contactos cercanos cuando se encuentren en una situación de riesgo, en la que sientan que su integridad o su vida está en peligro.**
 
 **Antipax**
