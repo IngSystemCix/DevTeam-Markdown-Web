@@ -16,7 +16,7 @@ Crear una interfaz donde el usuario permita ingresar los datos detallados de su 
 
 *	GitHub: Utilizado para la colaboración en equipo y publicación del proyecto.
 
-Características del proyecto:
+## Características del proyecto:
 
 *	Formulario que permita ingresar datos detallados de su mascota, como su nombre, especie, raza, edad, género, tamaño, peso, color y cualquier otra información relevante.
 
