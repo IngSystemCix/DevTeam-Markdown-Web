@@ -1,6 +1,6 @@
 # DEVTEAM - PROYECT MARKDOW
 ## 4ta EDICION (2020) - LIMA
-![Ganadores de la hackaton](./IMG/cuarta_edicion.jpg)
+![Ganadores de la hackaton](./IMG/cuarta_edicion.png)
 
 **RETO: Herramienta innovadora que permita al usuario acceder a la información pública de los candidatos a las elecciones generales del Perú.**
 
