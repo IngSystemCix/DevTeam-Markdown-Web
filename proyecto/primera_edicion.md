@@ -12,4 +12,4 @@
 * Ernesto Leoncio Vargas Gil
 * Jordiny Montañez Flores
 
-**APLICACION**: La herramienta que actualmente está albergada en una plataforma cloud de Microsoft, sin acceso al público. La aplicación permite principalmente ubicar las 15 comisarías o centros de seguridad más cercanos, y presentar una denuncia rellenando un formulario sencillo y rápido (DNI, descripción de la denuncia, modalidad de robo y hashtags). 
+**APLICACION**: La herramienta que actualmente está albergada en una plataforma cloud de Microsoft, sin acceso al público. La aplicación permite principalmente ubicar las 15 comisarías o centros de seguridad más cercanos, y presentar una denuncia rellenando un formulario sencillo y rápido (DNI, descripción de la denuncia, modalidad de robo y hashtags).
