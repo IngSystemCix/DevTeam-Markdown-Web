@@ -6,11 +6,11 @@ Construir un programa que permita mostrar el récord de notas según el alumno i
 
 ## Lenguajes y herramientas utilizadas:
 
-*	Java: Lenguaje de programación utilizado para la elaboración de todo el proyecto usando el modelo de programación POO.
+*	**Java:** Lenguaje de programación utilizado para la elaboración de todo el proyecto usando el modelo de programación POO.
 
-*	Excel: Programa utilizado para registrar e imprimir las notas de los alumnos.
+*	**Excel:** Programa utilizado para registrar e imprimir las notas de los alumnos.
 
-Características del proyecto:
+## Características del proyecto:
 	
 ## Integrantes del equipo:
 

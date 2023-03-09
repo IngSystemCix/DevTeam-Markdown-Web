@@ -6,11 +6,11 @@ Crear un plugin para minecraft, se usará un servidor spigot o papermc para ejec
 
 Lenguajes y herramientas utilizadas:
 
-*	Java: Lenguaje de programación utilizado para la elaboración de todo el proyecto usando el modelo de programación POO. Y también porque tiene la ventaja de tener una gran cantidad de recursos y documentación disponible.
+*	**Java:** Lenguaje de programación utilizado para la elaboración de todo el proyecto usando el modelo de programación POO. Y también porque tiene la ventaja de tener una gran cantidad de recursos y documentación disponible.
 
-*	Editor de código: Intellij idea este IDE tiene más soporte para el lenguaje Java.
+*	***Editor de código:*** Intellij idea este IDE tiene más soporte para el lenguaje Java.
 
-*	GitHub: Utilizado para la colaboración en equipo y publicación del proyecto.
+*	**GitHub:** Utilizado para la colaboración en equipo y publicación del proyecto.
 
 ## Características del proyecto:
 

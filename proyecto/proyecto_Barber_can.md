@@ -6,15 +6,15 @@ Crear una interfaz donde el usuario permita ingresar los datos detallados de su 
 
 ## Lenguajes y herramientas utilizadas:
 
-*	Java: Lenguaje de programación utilizado para la elaboración de todo el proyecto usando el modelo de programación POO.
+*	**Java:** Lenguaje de programación utilizado para la elaboración de todo el proyecto usando el modelo de programación POO.
 
-*	HTML: Este lenguaje de marcado será utilizado para elaborar la estructura de la página web. 
+*	**HTML:** Este lenguaje de marcado será utilizado para elaborar la estructura de la página web. 
 
-*	CSS: Empleado para mejorar la apariencia y el diseño de la página web.
+*	**CSS:** Empleado para mejorar la apariencia y el diseño de la página web.
 
-*	Editor de código: Se empleará el IDE Intellij idea.
+*	**Editor de código:** Se empleará el IDE Intellij idea.
 
-*	GitHub: Utilizado para la colaboración en equipo y publicación del proyecto.
+*	**GitHub:** Utilizado para la colaboración en equipo y publicación del proyecto.
 
 ## Características del proyecto:
 

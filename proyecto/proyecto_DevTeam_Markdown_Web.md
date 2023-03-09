@@ -1,30 +1,31 @@
 ## 1.	DevTeam Markdown Web
 
-Objetivo del proyecto: 
+**Objetivo del proyecto:**
 Construir una web para nuestro equipo de desarrollo (devteam).
 	Lenguajes y herramientas utilizadas: 
--	Markdown: Lenguaje de marcado ligero que será utilizado para la completa elaboración de la página web.
+-	**Markdown:** Lenguaje de marcado ligero que será utilizado para la completa elaboración de la página web.
 
 ![Markdowm](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB8HCBuZhCzLj16GlCl78AukKHJAR3tSh2G_EXPRIBoumWMPd6pthbgL5S7fb5govKK8&usqp=CAU)
 
--	Pandoc: Programa que ayudara a convertir archivos HTML en Markdown y viceversa.
+-	**Pandoc:** Programa que ayudara a convertir archivos HTML en Markdown y viceversa.
 
 ![Pandoc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8W5VJgWITfA2GFGTkmpm_AE1h_6cSOn3Ww&usqp=CAU)
 
--	HTML: Este lenguaje de marcado de texto será utilizado para elaborar la estructura de la página web. 
+-	**HTML:** Este lenguaje de marcado de texto será utilizado para elaborar la estructura de la página web. 
 
 ![HTML](https://marcago.com/wp-content/uploads/2022/04/que-es-html5.jpg)
 
--	CSS: Empleado para mejorar la apariencia y el diseño de la página web, dando así una mejor experiencia al usuario.
+-	**CSS:** Empleado para mejorar la apariencia y el diseño de la página web, dando así una mejor experiencia al usuario.
 
 ![cSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
 
--	GitHub: Utilizado para la colaboración en equipo y publicación del proyecto.
+-	**GitHub:** Utilizado para la colaboración en equipo y publicación del proyecto.
 
 ![gITHUB](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
--	Editor de código: Se empleará el editor de código VsCode para el desarrollo de la página web.
--	Putty: Herramienta utilizada para la conexión con el VPS.
+-	**Editor de código:** Se empleará el editor de código VsCode para el desarrollo de la página web.
+
+-	**Putty:** Herramienta utilizada para la conexión con el VPS.
 
 ![vSCODE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRer-ItBiFdg_LFs5Cp6GpvrORFaM-gKWI4-g&usqp=CAU)
 
