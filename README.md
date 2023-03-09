@@ -1,5 +1,7 @@
 # DevTeam-Markdown-Web | Trabajo colaborativo
 
+##Integrantes:
+
 1.	Bustamante Inoach, Cesar Abel (GitHub: AbelBusi)
 2.	Cubas Parra, Abner Atali (GitHub: abne3r)
 3.	Estrada Quiroz, Andrés Eduardo (no tiene GitHub)
