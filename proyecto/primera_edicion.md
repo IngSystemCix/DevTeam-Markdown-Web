@@ -1,10 +1,7 @@
 # DEVTEAM - PROYECT MARKDOWN
 ## 1ra EDICION (2019) - LIMA
-<<<<<<< HEAD
+
 ![Ganadores de la hackaton](./IMG/primera_edicion.jpg)
-=======
-![Ganadores de la hackaton](./IMG/primera_edicion.jpg)
->>>>>>> 9b1b1c76377938d38f779e6d51dbd113a6dabfd8
 
 **RETO: Crear una aplicativo con el potencial de convertirse en una red social contra la delincuencia.**
 
