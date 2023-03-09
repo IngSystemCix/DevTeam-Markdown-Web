@@ -1,5 +1,6 @@
 # DEVTEAM - PROYECT MARKDOWN
 
-#hola mi gente :3
-# que tal
-# hola jijinji
+. Inicio
+. Acerca del evento
+. Patrocinadores
+. Contacto

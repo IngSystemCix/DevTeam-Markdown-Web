@@ -18,3 +18,4 @@
 14.	Sanandres Vela, Juan Piero Aarón (GitHub: Dark-JuanpiDev)
 15.	Vasquez Villegas, Kevin Jeferson (GitHub: kevin11jeferson)
 16.	Vera Fernandez, Angel Fabian (GitHub: TheMoshe)
+17. Rimarachin Paico, Cesar (GitHub: CesarRimarachin)

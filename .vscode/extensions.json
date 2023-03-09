@@ -3,6 +3,7 @@
     "GitHub.vscode-pull-request-github",
     "eamodio.gitlens",
     "ritwickdey.LiveServer",
-    "MS-CEINTL.vscode-language-pack-es"
+    "MS-CEINTL.vscode-language-pack-es",
+    "shd101wyy.markdown-preview-enhanced"
   ]
 }
