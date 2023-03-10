@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   font-family: 'Poppins', sans-serif;
 }
@@ -9,10 +10,12 @@ h2 {
   text-align: center;
 }
 
+=======
+>>>>>>> 1b5774540a6b3ded4e4f8b2166ca907f091d0bed
 .contenido_informativo .contenido {
   margin: 20px 20px;
   box-shadow: 0 4px 8px #b50000, 0 6px 20px 0 #393e46;
-  width: 280px;
+  width: 362px;
   height: 430px;
   align-items: center;
   display: inline-grid;
