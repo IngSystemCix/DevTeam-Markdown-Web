@@ -1,12 +1,7 @@
-h2 {
-  color: #d30303;
-  padding: 0px 0px 10px 0px;
-}
-
 .contenido_informativo .contenido {
   margin: 20px 20px;
   box-shadow: 0 4px 8px #b50000, 0 6px 20px 0 #393e46;
-  width: 280px;
+  width: 362px;
   height: 430px;
   align-items: center;
   display: inline-grid;
