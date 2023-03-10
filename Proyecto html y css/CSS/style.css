@@ -92,9 +92,26 @@ main{
   border-right: solid 1px #000;
 }
 
-h2{
-  color: #FF0000;
-  font-family: 'Lobster', cursive;
+.contenido_informativo .contenido{
+  margin: 20px 20px;
+	box-shadow: 0 4px 8px #b50000, 0 6px 20px 0 #393E46;
+	width: 350px;
+	height: 390px;
+	align-items: center;
+	display: inline-grid;
+	border-radius: 15px;
+}
+
+.contenido_informativo .contenido .fotos img{
+	width: 100%;
+	height: 200px;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.contenido_informativo .contenido .pie_foto{
+	text-align: center;
+	padding: 10px;
+	margin:10px 10px;
 }
 
 .pie_pagina{
