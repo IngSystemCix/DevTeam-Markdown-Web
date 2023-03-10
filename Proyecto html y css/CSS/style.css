@@ -1,0 +1,86 @@
+*{
+  color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+body::-webkit-scrollbar{
+	width: 10px;
+}
+
+body::-webkit-scrollbar-thumb{
+	background-color: #383d45;
+	border-radius: 50px;
+}
+
+body::-webkit-scrollbar-thumb:hover{
+	background-color: #FF0000;
+}
+
+body{
+  background-color: #1B2430;
+}
+
+header{
+  background-color: #000000;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 10%;
+  box-shadow: 1px 1px 15px #000;
+}
+
+.logo{
+  margin-right: auto;
+  font-family: 'Lobster', cursive;
+  cursor: pointer;
+}
+
+.devteam{
+  font-family: 'Lobster', cursive;
+  color: #FF0000;
+  font-size: 24px;
+}
+
+.proyect{
+  font-family: 'Lobster', cursive;
+}
+
+.markdown{
+  font-family: 'Lobster', cursive;
+}
+
+nav ul{
+  list-style: none;
+  display: inline-block;
+  overflow: hidden;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.Contactanos{
+  padding: 10px 10px;
+  border: 0;
+  background-color: #820101;
+  box-shadow: 1px 1px 15px #000;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  font-weight: 900;
+  transition: all 0.3s ease 0s;
+}
+
+nav ul li a:hover{
+  color: #FF0000;
+}
+
+.Contactanos:active{
+  background-color: #FF0000;
+}
