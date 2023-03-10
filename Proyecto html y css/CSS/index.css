@@ -1,6 +1,12 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+
 h2 {
   color: #d30303;
   padding: 0px 0px 10px 0px;
+  text-align: center;
 }
 
 .contenido_informativo .contenido {
@@ -23,4 +29,12 @@ h2 {
   text-align: center;
   padding: 10px;
   margin: 10px 10px;
+}
+
+.contenido_informativo p {
+  margin-right: 20px;
+}
+
+main p {
+ margin-left: 20px;
 }
