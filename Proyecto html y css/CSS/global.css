@@ -46,12 +46,14 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 main {
-  max-width: 1690px;
-  width: 90%;
-  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
   border-left: solid 1px var(--black-2);
   border-right: solid 1px var(--black-2);
-  padding: 0 30px;
 }
 
 /* 
@@ -222,51 +224,3 @@ footer div a:hover {
 }
 
 /* -- -- */
-
-/* -- Primera edicion -- */
-
-.tittle1 {
-  margin-top: 30px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.tittle2 {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.img1 {
-  height: 250px;
-  width: 400px;
-  position: absolute;
-  margin-left: 700px;
-  margin-top: 10px;
-}
-
-.img1 img {
-  width: 550px;
-  height: 400px;
-  position: absolute;
-  border-radius: 20px;
-}
-
-.img1 figcaption {
-  margin-top: 420px;
-  text-align: left;
-  margin-left: 200px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.interno {
-  width: 500px;
-  height: 450px;
-}
-
-.student {
-  margin-left: 50px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.text-int {
-  margin-top: 50px;
-  font-family: Arial, Helvetica, sans-serif;
-}
