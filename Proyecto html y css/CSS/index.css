@@ -1,14 +1,10 @@
-/*<<<<<<< HEAD*/
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-
 
 h2 {
   text-align: center;
 }
-
-/*===========*/
 
 .contenido_informativo {
   margin-top: 3rem;
@@ -18,7 +14,7 @@ h2 {
   position: relative;
   left: 2%;
   width: 600px;
-  height: 350px;
+  /* height: 430px; En este caso no es necesario definir un alto fijo ya que este se define por el contenido */
   border-radius: 20px;
   display: flex;
   align-items: center;
@@ -42,7 +38,7 @@ h2 {
 }
 
 .card .circle::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -90,25 +86,25 @@ h2 {
   visibility: visible;
 }
 
-  .card .pie_foto h2 {
-    text-transform: uppercase;
-    font-size: 1.5em;
-    line-height: 1em;
-  }
+.card .pie_foto h2 {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  line-height: 1em;
+}
 
-  .card .pie_foto p {
-    font-size: 1em;
-    text-overflow: initial;
-  }
+.card .pie_foto p {
+  font-size: 1em;
+  text-overflow: initial;
+}
 
-  .card .pie_foto a{
-      position: relative;
-      color: #111;
-      padding: 10px 20px;
-      border-radius: 10px;
-      background: #fff;
-      margin-left: 20px;
-      display: inline-block;
-      text-decoration: none;
-      font-weight: 700;
-  }
+.card .pie_foto a {
+  position: relative;
+  color: #111;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #fff;
+  margin-left: 20px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 700;
+}

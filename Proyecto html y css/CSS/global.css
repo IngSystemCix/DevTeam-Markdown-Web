@@ -1,5 +1,13 @@
-/* -- ARCHIVO CON VARIABLES GLOBALES (NO LOCALES) PARA TODAS LAS PAGINAS DEL PROYECTO -- */
+/* -- 
+CONSIDERO QUE ESTE ARCHIVO SEA PARA ESTILOS GLOBALES OSEA CLASES QUE SE PUEDEN REUTILIZAR EN EL 
+PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS 
+-- */
+
 @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+/* -- FONT FAMILY POPPINS */
+/* font-family: 'Poppins', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -15,11 +23,13 @@
   --black: #000000;
   --black-2: #000;
   --cursive-font: "Lobster", cursive;
+  --poppins-font: "Poppins", sans-serif;
 }
 
 body {
   background-color: var(--bg-page);
   color: #eee;
+  font-family: var(--poppins-font);
 }
 
 body::-webkit-scrollbar {
@@ -36,11 +46,20 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 main {
-  max-width: 1650px;
+  max-width: 1690px;
   width: 90%;
   margin: auto;
   border-left: solid 1px var(--black-2);
   border-right: solid 1px var(--black-2);
+  padding: 0 30px;
+}
+
+/* 
+Tamaño predefinido para todas las imagenes, 
+la puedes editar creando otra clase 
+*/
+img {
+  width: 300px;
 }
 
 /* -- BARRA DE NAVEGACION (NAVBAR) -- */
@@ -183,6 +202,23 @@ footer div .logo {
 
 /* -- -- */
 
+/* -- ESTILOS REUTILIZABLES -- */
+.txt-cn {
+  text-align: center;
+}
+
+.title{
+  font-weight: 800;
+  font-size: 28px;
+}
+
+.subtitle{
+  font-weight: 600;
+  font-size: 20px;
+}
+
+/* -- -- */
+
 /* -- Primera edicion -- */
 
 .tittle1{
@@ -230,4 +266,3 @@ footer div .logo {
   margin-top: 50px;
   font-family: Arial, Helvetica, sans-serif;
 }
->>>>>>> 989c11968aa005ae381fdfa66c4238d0b27881cb
