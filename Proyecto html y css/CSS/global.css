@@ -8,9 +8,10 @@ PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS
 /* -- FONT FAMILY POPPINS */
 /* font-family: 'Poppins', sans-serif; */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap");
-* {
+*, *:before, *:after {
   margin: 0;
   padding: 0;
+  outline: 0;
   box-sizing: border-box;
   color: #eee;
 }
@@ -69,75 +70,111 @@ a {
 }
 
 /* -- BARRA DE NAVEGACION (NAVBAR) -- */
-header {
+
+.logo a img{
+  cursor: pointer;
+  margin-right: auto;
+  width: 60px;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.menu{
   background-color: var(--black);
+  height: 75px;
+  width: 100vw;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
-  padding: 10px 10%;
   box-shadow: 1px 1px 15px var(--black-2);
 }
 
-.logo {
-  margin-right: auto;
-  font-family: var(--cursive-font);
-  cursor: pointer;
-}
-
-.devteam {
-  font-family: var(--cursive-font);
-  color: var(--azul);
-  font-size: 24px;
-}
-
-.proyect {
-  font-family: var(--cursive-font);
-}
-
-
-nav ul {
+.menu_items{
+  display: flex;
   list-style: none;
-  display: inline-block;
-  overflow: hidden;
+  margin-right: 30px;
 }
 
-nav ul li {
-  display: inline-block;
+.menu_items li{
   padding: 0px 20px;
   margin-top: 9px;
 }
 
-nav ul li a {
+.menu_items li a{
   text-decoration: none;
   font-weight: 900;
   transition: all 0.3s ease 0s;
   color: #eee;
+  display: block;
+  text-transform: uppercase;
 }
 
-nav ul li a:hover {
+.menu_items li a:hover{
   color: var(--azul);
 }
 
-.Contactanos {
-  padding: 10px 10px;
-  border: 0;
-  background-color: #016195;
-  box-shadow: 1px 1px 15px var(--black-2);
-  border-radius: 20px;
+.btn_menu{
+  margin-right: 30px;
+  font-size: 25px;
   cursor: pointer;
-  margin-left: 20px;
-  color: #eee;
-  transition: 0.3s ease all;
-  -webkit-transition: 0.3s ease all;
-  -moz-transition: 0.3s ease all;
-  -ms-transition: 0.3s ease all;
-  -o-transition: 0.3s ease all;
+  display: none;
 }
 
-.Contactanos:hover,
-.Contactanos:active {
-  background-color: var(--azul);
+ul.show{
+  top: 65px;
 }
+
+@media screen  and (max-width: 952px){
+  .logo{
+    font-size: 30px;
+    padding: 35px;
+  }
+  .menu_items li a{
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 858px){
+  nav{
+    height: 65px;
+  }
+  .btn_menu{
+    display: inline-block;
+  }
+  .menu_items{
+    position: fixed;
+    width: 100vw;
+    height: calc(100% - 65px);
+    background-color: #1b2430;
+    top: -100vh;
+    text-align: center;
+    transition: all .4s;
+    flex-direction: column;
+  }
+  .menu_items li{
+    margin: 30px 0 0 0;
+    line-height: 30px;
+  }
+  .menu_items li:hover{
+    background: none;
+  }
+  .menu_items li a{
+    font-size: 20px;
+  }
+  .logo{
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 858px) and (orientation: landscape){
+  .menu_items{
+    margin: 5px 0 0 0;
+  }
+  .menu_items{
+    overflow: scroll;
+    height: calc(100% - 65px);
+  }
+}
+
 /* -- -- */
 
 /* -- cuerpo (body)-- */
