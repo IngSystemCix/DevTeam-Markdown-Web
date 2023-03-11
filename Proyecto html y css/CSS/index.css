@@ -60,7 +60,8 @@ h2 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 150px;
+  height: 230px;
+  width: 230px;
   border-radius: 100%;
   transition: 0.5s;
   pointer-events: 0.5s;

@@ -18,7 +18,7 @@ PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS
 /* -- VARIABLES CSS -- */
 /* Las pueden usar empleando var("--nombre de la variable") */
 :root {
-  --red: #ff0000;
+  --azul: #0081C9;
   --bg-page: #1b2430;
   --black: #000000;
   --black-2: #000;
@@ -86,7 +86,7 @@ header {
 
 .devteam {
   font-family: var(--cursive-font);
-  color: var(--red);
+  color: var(--azul);
   font-size: 24px;
 }
 
@@ -115,13 +115,13 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: var(--red);
+  color: var(--azul);
 }
 
 .Contactanos {
   padding: 10px 10px;
   border: 0;
-  background-color: #820101;
+  background-color: #016195;
   box-shadow: 1px 1px 15px var(--black-2);
   border-radius: 20px;
   cursor: pointer;
@@ -136,14 +136,14 @@ nav ul li a:hover {
 
 .Contactanos:hover,
 .Contactanos:active {
-  background-color: var(--red);
+  background-color: var(--azul);
 }
 /* -- -- */
 
 /* -- cuerpo (body)-- */
 
 h2 {
-  color: #d30303;
+  color: #0081C9;
   padding: 0px 0px 10px 0px;
   margin: 15px 15px 0px 15px;
 }
@@ -174,7 +174,7 @@ footer .about a {
 }
 
 footer .about a:hover {
-  color: var(--red);
+  color: var(--azul);
 }
 
 footer .logo{
@@ -205,7 +205,7 @@ footer div {
 }
 
 footer div a:hover {
-  color: var(--red);
+  color: var(--azul);
 }
 
 /* -- -- */
