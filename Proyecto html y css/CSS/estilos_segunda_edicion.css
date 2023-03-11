@@ -24,6 +24,12 @@
 
 .text-container {
   overflow: hidden;
+  flex-basis: 50%;
+  margin-right: 30px;
+}
+
+.student{
+  margin-left: 45px;
 }
 
 /* Estilos para la versión móvil */
