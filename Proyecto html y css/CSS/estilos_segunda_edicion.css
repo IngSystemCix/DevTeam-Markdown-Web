@@ -1,3 +1,4 @@
+/*
 main {
   display: flex;
   justify-content: space-between;
@@ -13,3 +14,60 @@ main {
 .text-container {
   width: 50%;
 }
+
+.img1{
+  margin-top: 60px;
+}
+
+.img2{
+  margin-top: 130px;
+}
+
+.student{
+  margin-bottom: 120px;
+  list-style: none;
+}
+
+.student li{
+  margin-left: 40px;
+}
+*/
+
+
+.img1{
+  margin-top: 20px;
+  flex-basis: 10%;
+  
+}
+
+.img1 img{
+  width: 400px;
+  height: 250px;
+  border-radius: 15px;
+}
+
+.text-container {
+  width: 50%;
+  margin-left: 100px;
+  flex-basis: 50%;
+}
+
+.student{
+  margin-left: 50px;
+  list-style: none;
+}
+
+
+.img2{
+  margin-top: 100px;
+  flex-basis: 10%;
+  
+}
+
+.img2 img{
+  width: 400px;
+  height: 250px;
+  border-radius: 15px;
+}
+
+
