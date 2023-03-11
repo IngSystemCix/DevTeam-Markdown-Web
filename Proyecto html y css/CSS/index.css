@@ -1,6 +1,9 @@
-* {
+/* 
+No es necesario ya esta declarado en global.css parte
+body
+ * {
   font-family: "Poppins", sans-serif;
-}
+} */
 
 h2 {
   text-align: center;
@@ -8,23 +11,21 @@ h2 {
 
 .contenido_informativo {
   margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
+  gap: 10px;
+  align-items: center;
+  justify-items: center;
 }
 
 .contenido_informativo .card {
   position: relative;
-  left: 2%;
   width: 600px;
   /* height: 430px; En este caso no es necesario definir un alto fijo ya que este se define por el contenido */
   border-radius: 20px;
   display: flex;
   align-items: center;
   transition: 0.5s;
-}
-
-.contenido_informativo .edit {
-  position: absolute;
-  left: 46%;
-  top: 84%;
 }
 
 .contenido_informativo .card .circle {
@@ -107,4 +108,10 @@ h2 {
   display: inline-block;
   text-decoration: none;
   font-weight: 700;
+}
+
+@media screen and (max-width: 760px) {
+  .contenido_informativo {
+    grid-template-columns: 100%;
+  }
 }
