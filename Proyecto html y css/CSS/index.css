@@ -1,43 +1,114 @@
-<<<<<<< HEAD
+/*<<<<<<< HEAD*/
 * {
   font-family: 'Poppins', sans-serif;
 }
 
 
 h2 {
-  color: #d30303;
-  padding: 0px 0px 10px 0px;
   text-align: center;
 }
 
-=======
->>>>>>> 1b5774540a6b3ded4e4f8b2166ca907f091d0bed
-.contenido_informativo .contenido {
-  margin: 20px 20px;
-  box-shadow: 0 4px 8px #b50000, 0 6px 20px 0 #393e46;
-  width: 362px;
-  height: 430px;
+/*===========*/
+
+.contenido_informativo {
+  margin-top: 3rem;
+}
+
+.contenido_informativo .card {
+  position: relative;
+  left: 2%;
+  width: 600px;
+  height: 350px;
+  border-radius: 20px;
+  display: flex;
   align-items: center;
-  display: inline-grid;
-  border-radius: 15px;
+  transition: 0.5s;
 }
 
-.contenido_informativo .contenido .fotos img {
+.contenido_informativo .edit {
+  position: absolute;
+  left: 46%;
+  top: 84%;
+}
+
+.contenido_informativo .card .circle {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.card .circle::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffff;
+  clip-path: circle(120px at center);
+  transition: 0.5s;
+}
+
+.card:hover .circle::before {
+  background: #000;
+  clip-path: circle(400px at center);
+}
+
+.contenido_informativo .card .fotos img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 150px;
+  border-radius: 100%;
+  transition: 0.5s;
+  pointer-events: 0.5s;
+}
+
+.card:hover .fotos img {
+  left: 76%;
   height: 200px;
-  border-radius: 15px 15px 0px 0px;
 }
 
-.contenido_informativo .contenido .pie_foto {
-  text-align: center;
-  padding: 10px;
-  margin: 10px 10px;
+.contenido_informativo .card .pie_foto {
+  position: relative;
+  width: 60%;
+  left: 20%;
+  padding: 20px 20px 20px 40px;
+  transition: 0.5s;
+  opacity: 0;
+  visibility: hidden;
 }
 
-.contenido_informativo p {
-  margin-right: 20px;
+.card:hover .pie_foto {
+  left: 0;
+  opacity: 1;
+  visibility: visible;
 }
 
-main p {
- margin-left: 20px;
-}
+  .card .pie_foto h2 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    line-height: 1em;
+  }
+
+  .card .pie_foto p {
+    font-size: 1em;
+    text-overflow: initial;
+  }
+
+  .card .pie_foto a{
+      position: relative;
+      color: #111;
+      padding: 10px 20px;
+      border-radius: 10px;
+      background: #fff;
+      margin-left: 15px;
+      display: inline-block;
+      text-decoration: none;
+      font-weight: 700;
+  }

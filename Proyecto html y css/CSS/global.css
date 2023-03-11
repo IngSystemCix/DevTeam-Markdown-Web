@@ -156,7 +156,7 @@ footer div .about a{
 }
 
 footer .informacion_pagina{
-  margin: 15px;
+  margin: 15px 155px 30px 155px;
 }
 
 footer div .about a:hover{
@@ -173,6 +173,12 @@ footer div p a{
 
 footer div p a:hover{
 	color: #ff0000;
+}
+
+footer div .logo {
+  position: absolute;
+  top: 101.3rem;
+  left: 5%;
 }
 
 /* -- -- */
