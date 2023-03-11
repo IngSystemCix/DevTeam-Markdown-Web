@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-* {
-  font-family: 'Poppins', sans-serif;
-}
-=======
 /* 
 No es necesario ya esta declarado en global.css parte
 body
  * {
   font-family: "Poppins", sans-serif;
 } */
->>>>>>> b618674fcfaf12962c73915a1cfef6f5a4e617b2
 
 h2 {
   text-align: center;
@@ -22,11 +16,6 @@ h2 {
   gap: 10px;
   align-items: center;
   justify-items: center;
-}
-
-.section1, .section2 {
-  width: 80em;
-  display: inline-flex;
 }
 
 .contenido_informativo .card {
@@ -50,7 +39,7 @@ h2 {
 }
 
 .card .circle::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -74,19 +63,19 @@ h2 {
   height: 150px;
   border-radius: 100%;
   transition: 0.5s;
-  pointer-events: none;
+  pointer-events: 0.5s;
 }
 
 .card:hover .fotos img {
-  left: 78%;
+  left: 76%;
   height: 200px;
 }
 
 .contenido_informativo .card .pie_foto {
   position: relative;
   width: 60%;
-  left: -5%;
-  padding: 10px 10px 10px 30px;
+  left: 20%;
+  padding: 20px 20px 20px 40px;
   transition: 0.5s;
   opacity: 0;
   visibility: hidden;

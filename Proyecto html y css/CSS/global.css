@@ -200,27 +200,8 @@ footer div {
   text-align: center;
 }
 
-<<<<<<< HEAD
-footer div p{
-	text-align: center;
-}
-
-footer div p a{
-	text-decoration: none;
-}
-
-footer div p a:hover{
-	color: #ff0000;
-}
-
-footer div .logo {
-  position: absolute;
-  top: 96rem;
-  left: 5%;
-=======
 footer div a:hover {
   color: var(--red);
->>>>>>> b618674fcfaf12962c73915a1cfef6f5a4e617b2
 }
 
 /* -- -- */
