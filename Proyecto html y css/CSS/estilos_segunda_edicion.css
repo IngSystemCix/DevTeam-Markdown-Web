@@ -2,8 +2,24 @@
 .img1, .img2 {
   width: 100%;
   max-width: 500px;
-  margin-right: 20px;
   float: left;
+  margin-left: 50px;
+}
+
+.img1 img{
+  border-radius: 15px;
+}
+
+.img2 img{
+  border-radius: 15px;
+}
+
+.img1 figcaption{
+  margin-left: 40px;
+}
+
+.img2 figcaption{
+  margin-left: 40px;
 }
 
 .text-container {
