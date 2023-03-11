@@ -87,6 +87,7 @@ a {
   justify-content: space-between;
   align-items: center;
   box-shadow: 1px 1px 15px var(--black-2);
+  margin-bottom: 20px;
 }
 
 .menu_items{
