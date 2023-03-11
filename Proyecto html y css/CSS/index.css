@@ -1,5 +1,5 @@
 * {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h2 {
@@ -37,7 +37,7 @@ h2 {
 }
 
 .card .circle::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -61,7 +61,7 @@ h2 {
   height: 150px;
   border-radius: 100%;
   transition: 0.5s;
-  pointer-events: 0.5s;
+  pointer-events: none;
 }
 
 .card:hover .fotos img {
