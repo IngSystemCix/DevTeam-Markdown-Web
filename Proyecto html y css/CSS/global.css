@@ -7,7 +7,7 @@ PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS
 
 /* -- FONT FAMILY POPPINS */
 /* font-family: 'Poppins', sans-serif; */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -62,6 +62,10 @@ img {
   width: 300px;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* -- BARRA DE NAVEGACION (NAVBAR) -- */
 header {
   background-color: var(--black);
@@ -88,9 +92,6 @@ header {
   font-family: var(--cursive-font);
 }
 
-.markdown {
-  font-family: var(--cursive-font);
-}
 
 nav ul {
   list-style: none;
@@ -139,49 +140,67 @@ nav ul li a:hover {
 
 /* -- cuerpo (body)-- */
 
-h2{
+h2 {
   color: #d30303;
   padding: 0px 0px 10px 0px;
   margin: 15px 15px 0px 15px;
 }
 
-p{
+p {
   margin: 15px;
   text-align: justify;
 }
 
 /* -- PIE DE PAGINA (FOOTER) -- */
-
-footer{
+footer {
   margin: 20px 0px 0px 0px;
-	padding: 5px 30px;
+  padding: 10px 30px;
   box-shadow: 1px -1px 15px var(--black-2);
 }
 
-footer div{
-	font-family: 'Open Sans', sans-serif;
-}
-
-footer div .about{
-	text-align: right;
-	font-size: 18px;
+footer .about {
+  text-align: right;
+  font-size: 18px;
   margin: 15px;
 }
 
-footer div .about a{
-	font-family: 'Lobster', cursive;
-	font-size: 18px;
-	text-decoration: none;
+footer .about a {
+  font-family: var(--cursive-font);
+  font-size: 18px;
+  text-decoration: none;
 }
 
-footer .informacion_pagina{
+footer .about a:hover {
+  color: var(--red);
+}
+
+footer .logo{
+  margin: 0 0 30px 0;
+}
+
+footer .logo .devteam{
+  font-size: 50px;
+}
+
+footer .logo .proyect{
+  font-size: 30px;
+}
+
+footer > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .informacion_pagina {
   margin: 15px 155px 30px 155px;
 }
 
-footer div .about a:hover{
-	color: #ff0000;
+footer div {
+  text-align: center;
 }
 
+<<<<<<< HEAD
 footer div p{
 	text-align: center;
 }
@@ -198,6 +217,10 @@ footer div .logo {
   position: absolute;
   top: 96rem;
   left: 5%;
+=======
+footer div a:hover {
+  color: var(--red);
+>>>>>>> b618674fcfaf12962c73915a1cfef6f5a4e617b2
 }
 
 /* -- -- */
@@ -207,12 +230,12 @@ footer div .logo {
   text-align: center;
 }
 
-.title{
+.title {
   font-weight: 800;
   font-size: 28px;
 }
 
-.subtitle{
+.subtitle {
   font-weight: 600;
   font-size: 20px;
 }
@@ -221,16 +244,16 @@ footer div .logo {
 
 /* -- Primera edicion -- */
 
-.tittle1{
+.tittle1 {
   margin-top: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.tittle2{
+.tittle2 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.img1{
+.img1 {
   height: 250px;
   width: 400px;
   position: absolute;
@@ -238,31 +261,31 @@ footer div .logo {
   margin-top: 10px;
 }
 
-.img1 img{
+.img1 img {
   width: 550px;
   height: 400px;
   position: absolute;
   border-radius: 20px;
 }
 
-.img1 figcaption{
+.img1 figcaption {
   margin-top: 420px;
   text-align: left;
   margin-left: 200px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.interno{
+.interno {
   width: 500px;
   height: 450px;
 }
 
-.student{
+.student {
   margin-left: 50px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.text-int{
+.text-int {
   margin-top: 50px;
   font-family: Arial, Helvetica, sans-serif;
 }
