@@ -17,6 +17,7 @@
   max-width: 500px;
   float: left;
   margin-top: 30px;
+  flex-basis: 40%;
 }
 
 .img1 img{
@@ -28,10 +29,14 @@
   margin-left: 85px;
 }
 
-.text-container {
+.interno {
   overflow: hidden;
   flex-basis: 50%;
   margin-right: 30px;
+}
+
+.interno .text-int{
+  margin-top: 50px;
 }
 
 .student{
