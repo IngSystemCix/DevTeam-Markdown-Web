@@ -18,7 +18,7 @@
   max-width: 500px;
   margin-right: 20px;
   float: left;
-  margin-top: 30px;
+  margin-top: 90px;
 }
 
 .img1 img{
@@ -45,8 +45,12 @@
   margin-right: 30px;
 }
 
+.section .text-container{
+  margin-top: 80px;
+}
+
 .student{
-  margin-left: 45px;
+  margin-left: 100px;
 }
 
 /* Estilos para la versión móvil */
