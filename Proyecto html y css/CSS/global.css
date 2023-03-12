@@ -50,7 +50,8 @@ body::-webkit-scrollbar-thumb:hover {
 
 main {
   max-width: 1200px;
-  margin: 0 auto;
+  width: 95%;
+  margin: 6rem auto;
   border-left: solid 1px var(--black-2);
   border-right: solid 1px var(--black-2);
 }
@@ -87,6 +88,8 @@ a {
   box-shadow: 1px 1px 15px var(--black-2);
   margin-bottom: 20px;
   position: fixed;
+  top: 0;
+  z-index: 1;
 }
 
 .menu_items {
