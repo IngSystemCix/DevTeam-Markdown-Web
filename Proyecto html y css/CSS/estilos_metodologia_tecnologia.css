@@ -20,11 +20,6 @@ figure{
     margin-left: 8%;
 }
 
-.aplicaciones{
-   display: grid;
-}
-
-
 .card{
     width: 320px;
     height: 320px;
@@ -35,7 +30,6 @@ figure{
     border: 3px solid #333;
     border-radius: 20px;
     margin: 20px;
-
 }
 
 .card figure, .card figcaption{
