@@ -127,21 +127,21 @@ h2 {
   gap: 20px;
 }
 
-.devs .card-dev{
+.devs .card-dev {
   background: #303843;
   border-radius: 8px;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
-  transition: .3s;
-  -webkit-transition: .3s;
-  -moz-transition: .3s;
-  -ms-transition: .3s;
-  -o-transition: .3s;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
 }
 
-.devs .card-dev:hover{
+.devs .card-dev:hover {
   background: #1d2128;
 }
 
@@ -151,11 +151,11 @@ h2 {
   object-fit: cover;
 }
 
-.devs .card-dev .card-info{
+.devs .card-dev .card-info {
   padding: 5px 20px 20px 20px;
 }
 
-.devs .card-dev .card-dev-title{
+.devs .card-dev .card-dev-title {
   color: var(--azul);
   font-weight: bold;
   margin-bottom: 10px;
@@ -175,21 +175,20 @@ h2 {
     font-size: 12px;
   }
 
-  .devs{
+  .devs {
     grid-template-columns: 100%;
   }
 
-  .contenido_informativo .card{
+  .contenido_informativo .card {
     width: 100%;
   }
 
-  .card:hover .fotos img{
+  .card:hover .fotos img {
     display: none;
   }
 
-  .contenido_informativo .card .pie_foto{
-    width: 100%;
-    margin: auto;
+  .contenido_informativo .card .pie_foto {
+    width: 90%;
     padding: 35px;
   }
 }
