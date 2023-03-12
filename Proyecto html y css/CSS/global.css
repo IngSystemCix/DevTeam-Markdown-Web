@@ -8,7 +8,9 @@ PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS
 /* -- FONT FAMILY POPPINS */
 /* font-family: 'Poppins', sans-serif; */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap");
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   margin: 0;
   padding: 0;
   outline: 0;
@@ -19,7 +21,7 @@ PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS
 /* -- VARIABLES CSS -- */
 /* Las pueden usar empleando var("--nombre de la variable") */
 :root {
-  --azul: #0081C9;
+  --azul: #0081c9;
   --bg-page: #1b2430;
   --black: #000000;
   --black-2: #000;
@@ -71,7 +73,7 @@ a {
 
 /* -- BARRA DE NAVEGACION (NAVBAR) -- */
 
-.logo a img{
+.logo a img {
   cursor: pointer;
   margin-right: auto;
   width: 60px;
@@ -79,10 +81,10 @@ a {
   margin-left: 30px;
 }
 
-.menu{
+.menu {
   background-color: var(--black);
   height: 75px;
-  width: 100vw;
+  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -90,18 +92,18 @@ a {
   margin-bottom: 20px;
 }
 
-.menu_items{
+.menu_items {
   display: flex;
   list-style: none;
   margin-right: 30px;
 }
 
-.menu_items li{
+.menu_items li {
   padding: 0px 20px;
   margin-top: 9px;
 }
 
-.menu_items li a{
+.menu_items li a {
   text-decoration: none;
   font-weight: 900;
   transition: all 0.3s ease 0s;
@@ -110,67 +112,67 @@ a {
   text-transform: uppercase;
 }
 
-.menu_items li a:hover{
+.menu_items li a:hover {
   color: var(--azul);
 }
 
-.btn_menu{
+.btn_menu {
   margin-right: 30px;
   font-size: 25px;
   cursor: pointer;
   display: none;
 }
 
-ul.show{
+ul.show {
   top: 65px;
 }
 
-@media screen  and (max-width: 952px){
-  .logo{
+@media screen and (max-width: 952px) {
+  .logo {
     font-size: 30px;
     padding: 35px;
   }
-  .menu_items li a{
+  .menu_items li a {
     font-size: 16px;
   }
 }
-@media screen and (max-width: 858px){
-  nav{
+@media screen and (max-width: 858px) {
+  nav {
     height: 65px;
   }
-  .btn_menu{
+  .btn_menu {
     display: inline-block;
   }
-  .menu_items{
+  .menu_items {
     position: fixed;
     width: 100vw;
     height: calc(100% - 65px);
     background-color: #1b2430;
     top: -100vh;
     text-align: center;
-    transition: all .4s;
+    transition: all 0.4s;
     flex-direction: column;
   }
-  .menu_items li{
+  .menu_items li {
     margin: 30px 0 0 0;
     line-height: 30px;
   }
-  .menu_items li:hover{
+  .menu_items li:hover {
     background: none;
   }
-  .menu_items li a{
+  .menu_items li a {
     font-size: 20px;
   }
-  .logo{
+  .logo {
     padding-left: 20px;
   }
 }
 
-@media screen and (max-width: 858px) and (orientation: landscape){
-  .menu_items{
+@media screen and (max-width: 858px) and (orientation: landscape) {
+  .menu_items {
     margin: 5px 0 0 0;
   }
-  .menu_items{
+  .menu_items {
     overflow: scroll;
     height: calc(100% - 65px);
   }
@@ -181,7 +183,7 @@ ul.show{
 /* -- cuerpo (body)-- */
 
 h2 {
-  color: #0081C9;
+  color: #0081c9;
   padding: 0px 0px 10px 0px;
   margin: 15px 15px 0px 15px;
 }
@@ -215,15 +217,15 @@ footer .about a:hover {
   color: var(--azul);
 }
 
-footer .logo{
+footer .logo {
   margin: 30px 0 30px 0;
 }
 
-footer .logo .devteam{
+footer .logo .devteam {
   font-size: 50px;
 }
 
-footer .logo .proyect{
+footer .logo .proyect {
   font-size: 30px;
 }
 

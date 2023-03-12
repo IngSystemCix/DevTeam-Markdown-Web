@@ -47,8 +47,7 @@ main{
   -o-transition: 0.3s;
 }
 
-ul,
-ol {
+.list{
   margin-left: 35px;
 }
 
