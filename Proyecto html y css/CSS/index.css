@@ -6,7 +6,9 @@ body
 } */
 
 h2 {
-  text-align: center;
+  margin-top: 30px;
+  margin-left: 15px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .contenido_informativo {
@@ -16,6 +18,9 @@ h2 {
   gap: 10px;
   align-items: center;
   justify-items: center;
+  overflow: hidden;
+  flex-basis: 80%;
+  margin-right: 30px;
 }
 
 .contenido_informativo .card {
@@ -111,8 +116,17 @@ h2 {
   font-weight: 700;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .contenido_informativo {
     grid-template-columns: 100%;
+  }
+  h2{
+    text-align: center;
+  }
+  footer .informacion_pagina{
+    font-size: 10px;
+  }
+  footer .about{
+    font-size: 12px;
   }
 }

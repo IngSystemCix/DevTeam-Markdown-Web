@@ -51,4 +51,10 @@
   .tittle2{
     text-align: center;
   }
+  footer .informacion_pagina{
+    font-size: 10px;
+  }
+  footer .about{
+    font-size: 12px;
+  }
 }
