@@ -3,16 +3,21 @@
     margin-top: 50px;
 }
 
-#info-meto{
+.cursos li{
+    margin-top: 20px;
+}
+
+.item-cursos{
+    display: flex;
+    justify-content: center;
+}
+
+figure{
     text-align: center;
 }
 
-.cursos{
-    list-style: none;
-}
-
-.cursos li{
-    margin-top: 20px;
+.item-cursos ul{
+    margin-left: 8%;
 }
 
 
