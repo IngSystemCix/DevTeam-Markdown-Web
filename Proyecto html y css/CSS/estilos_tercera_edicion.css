@@ -1,0 +1,50 @@
+/*
+/* Estilos para la imagen y el texto */
+
+.img1, .img2{
+    flex-basis: 40%;
+    margin-top: 100px;
+}
+
+.img1 img{
+    border-radius: 15px;
+}
+
+.img2 img{
+    border-radius: 15px;
+}
+
+.text-container{
+    flex-basis: 50%;
+    margin-top: 90px;
+}
+
+.text-container2{
+    flex-basis: 50%;
+    margin-bottom: 30px;
+}
+
+.student{
+    margin-left: 30px;
+}
+
+/* Estilos para la versión móvil */
+@media (max-width: 768px) {
+    .img1, .img2 {
+      float: none;
+      max-width: 100%;
+      margin-right: 0;
+    }
+    .tittle1{
+      text-align: center;
+    }
+    .tittle2{
+      text-align: center;
+    }
+    footer .informacion_pagina{
+      font-size: 10px;
+    }
+    footer .about{
+      font-size: 12px;
+    }
+  }
