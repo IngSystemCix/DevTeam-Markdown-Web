@@ -49,10 +49,6 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 main {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
   max-width: 1200px;
   margin: 0 auto;
   border-left: solid 1px var(--black-2);
@@ -263,6 +259,13 @@ footer div a:hover {
 .subtitle {
   font-weight: 600;
   font-size: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 /* -- -- */
