@@ -124,7 +124,7 @@ a {
 }
 
 ul.show {
-  top: 65px;
+  top: 75px;
 }
 
 @media screen and (max-width: 952px) {
@@ -149,7 +149,7 @@ ul.show {
     height: calc(100% - 65px);
     background-color: #1b2430;
     top: -100vh;
-    text-align: center;
+    text-align: left;
     transition: all 0.4s;
     flex-direction: column;
   }

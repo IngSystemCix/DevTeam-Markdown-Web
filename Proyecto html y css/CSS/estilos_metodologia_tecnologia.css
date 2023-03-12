@@ -21,22 +21,28 @@ figure{
 }
 
 .aplicaciones{
-   display: grid;
-}
-
-
-.card{
-    width: 320px;
-    height: 320px;
     display: grid;
-    grid-template-rows: minmax(100%, 1fr);
-    grid-template-areas: "stack";
-    overflow: hidden;
-    border: 3px solid #333;
-    border-radius: 20px;
-    margin: 20px;
-
-}
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* ajusta el número de columnas para que quepan los elementos de 320px */
+    grid-gap: 20px; /* espacio entre las tarjetas */
+    margin-left: 40px;
+ }
+ 
+ .card{
+     width: 320px;
+     height: 320px;
+     display: grid;
+     grid-template-rows: minmax(100%, 1fr);
+     grid-template-areas: "stack";
+     overflow: hidden;
+     border: 3px solid #333;
+     border-radius: 20px;
+     margin: 0; /* eliminamos el margen horizontal para que se ajuste al espacio de la cuadrícula */
+ }
+ 
+ .card:nth-last-child(-n+3) { /* agrega un margen inferior solo a los últimos 3 elementos */
+    margin-bottom: 40px; /* ajusta este valor a la separación deseada */
+ }
+ 
 
 .card figure, .card figcaption{
     grid-area: stack;
