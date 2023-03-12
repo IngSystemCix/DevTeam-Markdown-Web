@@ -1,4 +1,6 @@
+/*
 /* Estilos para la imagen y el texto */
+
 .tittle1 {
   margin-top: 30px;
   margin-left: 15px;
@@ -14,25 +16,27 @@
 .img1, .img2 {
   width: 100%;
   max-width: 500px;
+  margin-right: 20px;
   float: left;
-  margin-left: 50px;
   margin-top: 30px;
 }
 
 .img1 img{
   border-radius: 15px;
+  margin-left: 50px;
 }
 
 .img2 img{
   border-radius: 15px;
+  margin-left: 50px;
 }
 
 .img1 figcaption{
-  margin-left: 40px;
+  margin-left: 85px;
 }
 
 .img2 figcaption{
-  margin-left: 40px;
+  margin-left: 105px;
 }
 
 .text-container {
@@ -44,7 +48,6 @@
 .student{
   margin-left: 45px;
 }
-
 /* Estilos para la versión móvil */
 @media (max-width: 768px) {
   .img1, .img2 {
@@ -53,6 +56,9 @@
     margin-right: 0;
   }
   .tittle1{
+    text-align: center;
+  }
+  .tittle2{
     text-align: center;
   }
 }
