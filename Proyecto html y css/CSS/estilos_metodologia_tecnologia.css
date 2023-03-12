@@ -1,3 +1,4 @@
+
 #metodologia{
     margin-top: 50px;
 }
@@ -5,3 +6,13 @@
 #info-meto{
     text-align: center;
 }
+
+.cursos{
+    list-style: none;
+}
+
+.cursos li{
+    margin-top: 20px;
+}
+
+
