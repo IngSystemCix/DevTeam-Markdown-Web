@@ -180,6 +180,31 @@ ul.show {
 
 /* -- -- */
 
+/* -- LISTAS-- */
+
+ul{
+  margin-left: 55px;
+}
+/* -- -- */
+
+/* -- substitles-- */
+
+strong{
+  margin-left: 15px;
+  color: #72c2ed;
+}
+
+/* -- -- */
+
+/* -- enlaces-- */
+
+a:hover{
+  font-weight: 900;
+  color: var(--azul);
+}
+
+/* -- -- */
+
 /* -- cuerpo (body)-- */
 
 h2 {
