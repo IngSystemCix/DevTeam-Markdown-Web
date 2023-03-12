@@ -14,6 +14,14 @@
     border-radius: 15px;
 }
 
+.img1 figcaption{
+    margin-left: 50px;
+}
+
+.img2 figcaption{
+    margin-left: 50px;
+}
+
 .text-container{
     flex-basis: 50%;
     margin-top: 90px;
