@@ -70,6 +70,12 @@ figure{
     transform: none;
 }
 
+@media (max-width: 768px) {
+    .aplicaciones{
+        margin-left: 20px;
+    }
+}
+
 
 
 
