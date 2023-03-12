@@ -48,6 +48,7 @@
 .student{
   margin-left: 45px;
 }
+
 /* Estilos para la versión móvil */
 @media (max-width: 768px) {
   .img1, .img2 {
