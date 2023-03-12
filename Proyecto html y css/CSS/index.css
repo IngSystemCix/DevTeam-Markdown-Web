@@ -7,11 +7,12 @@ h2 {
 .contenido_informativo {
   margin-top: 3rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 30px;
   align-items: center;
   justify-items: center;
   justify-content: center;
+  align-content: center;
   /* overflow: hidden; */
   flex-basis: 80%;
   margin-right: 30px;
@@ -65,6 +66,10 @@ h2 {
   border-radius: 100%;
   transition: 0.5s;
   pointer-events: 0.5s;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
 }
 
 .card:hover .fotos img {
@@ -76,7 +81,7 @@ h2 {
   position: relative;
   width: 60%;
   left: 20%;
-  padding: 20px 20px 20px 40px;
+  padding: 20px;
   transition: 0.5s;
   opacity: 0;
   visibility: hidden;
@@ -172,5 +177,19 @@ h2 {
 
   .devs{
     grid-template-columns: 100%;
+  }
+
+  .contenido_informativo .card{
+    width: 100%;
+  }
+
+  .card:hover .fotos img{
+    display: none;
+  }
+
+  .contenido_informativo .card .pie_foto{
+    width: 100%;
+    margin: auto;
+    padding: 35px;
   }
 }
