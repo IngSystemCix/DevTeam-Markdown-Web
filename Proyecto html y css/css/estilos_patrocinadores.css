@@ -1,0 +1,26 @@
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.comercio {
+  margin-right: 20px;
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .contenedor {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .comercio {
+    margin-left: 20px;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}

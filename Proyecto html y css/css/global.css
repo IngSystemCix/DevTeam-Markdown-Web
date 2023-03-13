@@ -1,0 +1,368 @@
+/* -- 
+CONSIDERO QUE ESTE ARCHIVO SEA PARA ESTILOS GLOBALES OSEA CLASES QUE SE PUEDEN REUTILIZAR EN EL 
+PROYECTO, PARA CADA HTML CREAR UN CSS APARTE EN LA MISMA CARPETA CSS 
+-- */
+
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+/* -- FONT FAMILY POPPINS */
+/* font-family: 'Poppins', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap");
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  color: #eee;
+}
+
+/* -- VARIABLES CSS -- */
+/* Las pueden usar empleando var("--nombre de la variable") */
+:root {
+  --azul: #0081c9;
+  --bg-page: #1b2430;
+  --black: #000000;
+  --black-2: #000;
+  --cursive-font: "Lobster", cursive;
+  --poppins-font: "Poppins", sans-serif;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: #eee;
+  font-family: var(--poppins-font);
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #383d45;
+  border-radius: 50px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: var(--azul);
+}
+
+main {
+  max-width: 1200px;
+  width: 95%;
+  margin: 6rem auto;
+  border-left: solid 1px var(--black-2);
+  border-right: solid 1px var(--black-2);
+}
+
+/* 
+Tamaño predefinido para todas las imagenes, 
+la puedes editar creando otra clase 
+*/
+img {
+  width: 300px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* -- BARRA DE NAVEGACION (NAVBAR) -- */
+
+.logo a img {
+  cursor: pointer;
+  margin-right: auto;
+  width: 60px;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.menu {
+  background-color: var(--black);
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px 15px var(--black-2);
+  margin-bottom: 20px;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.menu_items {
+  display: flex;
+  list-style: none;
+  margin-right: 30px;
+}
+
+.menu_items li {
+  padding: 0px 20px;
+  margin-top: 9px;
+}
+
+.menu_items li a {
+  text-decoration: none;
+  font-weight: 900;
+  transition: all 0.3s ease 0s;
+  color: #eee;
+  display: block;
+  text-transform: uppercase;
+}
+
+.menu_items li a:hover {
+  color: var(--azul);
+}
+
+.btn_menu {
+  margin-right: 30px;
+  font-size: 25px;
+  cursor: pointer;
+  display: none;
+}
+
+ul.show {
+  top: 75px;
+}
+
+@media screen and (max-width: 952px) {
+  .logo {
+    font-size: 30px;
+    padding: 35px;
+  }
+  .menu_items li a {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 858px) {
+  .menu {
+    height: 75px;
+  }
+  .btn_menu {
+    display: inline-block;
+  }
+  .menu_items {
+    position: fixed;
+    width: 100vw;
+    height: calc(100% - 65px);
+    background-color: #1b2430;
+    top: -100vh;
+    text-align: left;
+    transition: all 0.4s;
+    flex-direction: column;
+  }
+  .menu_items li {
+    margin: 30px 0 0 0;
+    line-height: 30px;
+  }
+  .menu_items li:hover {
+    background: none;
+  }
+  .menu_items li a {
+    font-size: 15px;
+  }
+  .logo {
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 858px) and (orientation: landscape) {
+  .menu_items {
+    margin: 5px 0 0 0;
+  }
+  .menu_items {
+    overflow: scroll;
+    height: calc(100% - 65px);
+  }
+}
+
+/* -- -- */
+
+/* -- LISTAS-- */
+
+ul {
+  margin-left: 55px;
+}
+
+ol {
+  margin-left: 55px;
+}
+/* -- -- */
+
+/* -- substitles-- */
+
+strong {
+  color: #72c2ed;
+}
+
+/* -- -- */
+
+/* -- enlaces-- */
+
+a:hover {
+  font-weight: 900;
+  color: var(--azul);
+}
+
+/* -- -- */
+
+/* -- cuerpo (body)-- */
+
+h2 {
+  color: #0081c9;
+  padding: 0px 0px 10px 0px;
+  margin: 15px 15px 0px 15px;
+}
+
+p {
+  margin: 15px;
+  text-align: justify;
+}
+
+/* -- PIE DE PAGINA (FOOTER) -- */
+footer {
+  margin: 20px 0px 0px 0px;
+  padding: 10px 20px;
+  box-shadow: 1px -1px 15px var(--black-2);
+  text-align: center; /* Se agrega para centrar contenido del footer */
+}
+
+footer .about {
+  text-align: right;
+  font-size: 18px;
+  margin: 15px;
+}
+
+footer .about a {
+  font-family: var(--cursive-font);
+  font-size: 18px;
+  text-decoration: none;
+}
+
+footer .about a:hover {
+  color: var(--azul);
+}
+
+footer .logo {
+  margin: 30px 0 30px 0;
+}
+
+footer .logo .devteam {
+  font-size: 50px;
+}
+
+footer .logo .proyect {
+  font-size: 30px;
+}
+
+footer > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap; /* Agrega esto para que se ajuste a la pantalla */
+}
+
+footer .informacion_pagina {
+  margin: 15px 30px 30px 30px; /* Se reducen los márgenes para que se ajuste a la pantalla */
+}
+
+footer div {
+  text-align: center;
+}
+
+footer div a:hover {
+  color: var(--azul);
+}
+
+@media screen and (max-width: 768px) {
+  footer .informacion_pagina {
+    font-size: 10px;
+  }
+  footer .about {
+    font-size: 12px;
+  }
+  .contactos_utp {
+    font-size: 7px;
+  }
+}
+
+/* -- -- */
+
+/* -- ESTILOS REUTILIZABLES -- */
+.txt-cn {
+  text-align: center;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 28px;
+}
+
+.subtitle {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* -- -- */
+
+/* -- ESTILOS REUTILIZABLES -- */
+
+@media screen and (max-width: 412px) {
+  .aplicaciones {
+    margin-left: 35px;
+  }
+  ul li {
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  img {
+    width: 280px;
+  }
+  ul li {
+    margin-left: 55px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  img {
+    width: 280px;
+  }
+  .contactos_utp {
+    font-size: 6px;
+  }
+  ul li {
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  img {
+    width: 250px;
+  }
+  .contactos_utp {
+    font-size: 6px;
+  }
+  .aplicaciones {
+    margin-left: 5px;
+  }
+  ul li {
+    margin-left: 10px;
+  }
+  .aplicaciones {
+    margin-left: 20px;
+  }
+  ul li {
+    margin-left: 10px;
+  }
+}

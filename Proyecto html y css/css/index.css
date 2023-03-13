@@ -1,0 +1,194 @@
+h2 {
+  margin-top: 30px;
+  margin-left: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenido_informativo {
+  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 30px;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
+  /* overflow: hidden; */
+  flex-basis: 80%;
+  margin-right: 30px;
+}
+
+.contenido_informativo .card {
+  position: relative;
+  margin: auto;
+  width: 600px;
+  /* height: 430px; En este caso no es necesario definir un alto fijo ya que este se define por el contenido */
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  transition: 0.5s;
+}
+
+.contenido_informativo .card .circle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.card .circle::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffff;
+  clip-path: circle(120px at center);
+  transition: 0.5s;
+}
+
+.card:hover .circle::before {
+  background: #000;
+  clip-path: circle(400px at center);
+}
+
+.contenido_informativo .card .fotos img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 230px;
+  width: 230px;
+  border-radius: 100%;
+  transition: 0.5s;
+  pointer-events: 0.5s;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+
+.card:hover .fotos img {
+  left: 76%;
+  height: 200px;
+}
+
+.contenido_informativo .card .pie_foto {
+  position: relative;
+  width: 60%;
+  left: 20%;
+  padding: 20px;
+  transition: 0.5s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.card:hover .pie_foto {
+  left: 0;
+  opacity: 1;
+  visibility: visible;
+}
+
+.card .pie_foto h2 {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  line-height: 1em;
+}
+
+.card .pie_foto p {
+  font-size: 1em;
+  text-overflow: initial;
+}
+
+.card .pie_foto a {
+  position: relative;
+  color: #111;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #fff;
+  margin-left: 20px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* -- DEVTEAMS ANTERIORES -- */
+.info-dev {
+  margin-top: 2rem;
+  padding: 10px;
+}
+.devs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.devs .card-dev {
+  background: #303843;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+
+.devs .card-dev:hover {
+  background: #1d2128;
+}
+
+.devs .card-dev img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.devs .card-dev .card-info {
+  padding: 5px 20px 20px 20px;
+}
+
+.devs .card-dev .card-dev-title {
+  color: var(--azul);
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .contenido_informativo {
+    grid-template-columns: 100%;
+  }
+  h2 {
+    text-align: center;
+  }
+  footer .informacion_pagina {
+    font-size: 10px;
+  }
+  footer .about {
+    font-size: 12px;
+  }
+
+  .devs {
+    grid-template-columns: 100%;
+  }
+
+  .contenido_informativo .card {
+    width: 100%;
+  }
+
+  .card:hover .fotos img {
+    display: none;
+  }
+
+  .contenido_informativo .card .pie_foto {
+    width: 90%;
+    padding: 35px;
+  }
+}

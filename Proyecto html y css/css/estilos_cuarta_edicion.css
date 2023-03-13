@@ -1,0 +1,92 @@
+/* Estilos para la imagen y el texto */
+
+.tittle1 {
+  margin-top: 30px;
+  margin-left: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tittle2 {
+  margin-top: 30px;
+  margin-right: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section {
+  overflow: hidden;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.img1,
+.img2 {
+  width: 100%;
+  max-width: 500px;
+  margin-right: 10px;
+  float: left;
+  margin-top: 90px;
+}
+
+.img1 img,
+.img2 img {
+  border-radius: 15px;
+  margin-left: 50px;
+}
+
+.img1 figcaption{
+  margin-left: 85px;
+}
+  
+.img2 figcaption{
+  margin-left: 105px;
+}
+
+.text-container {
+  flex: 1;
+  margin-right: 50px;
+}
+
+.student {
+  margin-left: 50px;
+}
+
+/* Estilos para la versión móvil */
+@media (max-width: 768px) {
+  .section {
+    flex-direction: column;
+  }
+
+  .img1,
+  .img2 {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .text-container {
+    margin-right: 0;
+  }
+
+  .student {
+    margin-left: 0;
+  }
+
+  .figcaption {
+    margin-top: 20px;
+  }
+
+  .tittle1,
+  .tittle2 {
+    text-align: center;
+  }
+
+  footer .informacion_pagina {
+    font-size: 10px;
+  }
+
+  footer .about {
+    font-size: 12px;
+  }
+}
