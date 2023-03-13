@@ -137,8 +137,8 @@ ul.show {
   }
 }
 @media screen and (max-width: 858px) {
-  nav {
-    height: 65px;
+  .menu {
+    height: 75px;
   }
   .btn_menu {
     display: inline-block;
