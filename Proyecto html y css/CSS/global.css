@@ -276,6 +276,16 @@ footer div a:hover {
   color: var(--azul);
 }
 
+
+@media screen and (max-width: 768px) {
+  footer .informacion_pagina {
+    font-size: 10px;
+  }
+  footer .about {
+    font-size: 12px;
+  }
+}
+
 /* -- -- */
 
 /* -- ESTILOS REUTILIZABLES -- */
