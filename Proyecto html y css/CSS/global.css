@@ -314,3 +314,30 @@ footer div a:hover {
 }
 
 /* -- -- */
+
+/* -- ESTILOS REUTILIZABLES -- */
+
+@media screen and (max-width: 360px){
+  img{
+    width: 250px;
+  }
+  .contactos_utp{
+    font-size: 6px;
+  }
+}
+
+
+@media screen and (max-width: 390px){
+  img{
+    width: 250px;
+  }
+  ul li{
+    margin-left: 55px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .contactos_utp{
+    font-size: 6px;
+  }
+}
