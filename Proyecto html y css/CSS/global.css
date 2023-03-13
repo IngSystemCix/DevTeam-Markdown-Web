@@ -45,7 +45,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 body::-webkit-scrollbar-thumb:hover {
-  background-color: #ff0000;
+  background-color: var(--azul);
 }
 
 main {
@@ -224,7 +224,7 @@ p {
 /* -- PIE DE PAGINA (FOOTER) -- */
 footer {
   margin: 20px 0px 0px 0px;
-  padding: 10px 30px;
+  padding: 10px 20px;
   box-shadow: 1px -1px 15px var(--black-2);
   text-align: center; /* Se agrega para centrar contenido del footer */
 }
@@ -283,6 +283,9 @@ footer div a:hover {
   }
   footer .about {
     font-size: 12px;
+  }
+  .contactos_utp{
+    font-size: 7px;
   }
 }
 
