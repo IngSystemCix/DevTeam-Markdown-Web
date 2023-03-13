@@ -20,3 +20,5 @@
 16. Sanchez Silva, Jesus Alexander (GitHub: TheYisus18)
 17.	Vasquez Villegas, Kevin Jeferson (GitHub: kevin11jeferson)
 18.	Vera Fernandez, Angel Fabian (GitHub: TheMoshe)
+
+# Proyecto finalizado: 13/03/2023
