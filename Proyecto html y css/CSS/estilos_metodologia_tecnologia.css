@@ -70,8 +70,8 @@ figure{
     transform: none;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .aplicaciones{
-        margin-left: 20px;
+        margin-left: 18px;
     }
 }

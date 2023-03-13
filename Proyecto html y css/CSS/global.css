@@ -182,18 +182,18 @@ ul.show {
 
 /* -- LISTAS-- */
 
-ul{
+ul {
   margin-left: 55px;
 }
 
-ol{
+ol {
   margin-left: 55px;
 }
 /* -- -- */
 
 /* -- substitles-- */
 
-strong{
+strong {
   color: #72c2ed;
 }
 
@@ -201,7 +201,7 @@ strong{
 
 /* -- enlaces-- */
 
-a:hover{
+a:hover {
   font-weight: 900;
   color: var(--azul);
 }
@@ -276,7 +276,6 @@ footer div a:hover {
   color: var(--azul);
 }
 
-
 @media screen and (max-width: 768px) {
   footer .informacion_pagina {
     font-size: 10px;
@@ -284,7 +283,7 @@ footer div a:hover {
   footer .about {
     font-size: 12px;
   }
-  .contactos_utp{
+  .contactos_utp {
     font-size: 7px;
   }
 }
@@ -317,27 +316,53 @@ footer div a:hover {
 
 /* -- ESTILOS REUTILIZABLES -- */
 
-@media screen and (max-width: 360px){
-  img{
-    width: 250px;
+@media screen and (max-width: 412px) {
+  .aplicaciones {
+    margin-left: 35px;
   }
-  .contactos_utp{
-    font-size: 6px;
+  ul li {
+    margin-left: 10px;
   }
 }
 
-
-@media screen and (max-width: 390px){
-  img{
-    width: 250px;
+@media screen and (max-width: 390px) {
+  img {
+    width: 280px;
   }
-  ul li{
+  ul li {
     margin-left: 55px;
   }
 }
 
-@media screen and (max-width: 375px){
-  .contactos_utp{
+@media screen and (max-width: 375px) {
+  img {
+    width: 280px;
+  }
+  .contactos_utp {
     font-size: 6px;
+  }
+  ul li {
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  img {
+    width: 250px;
+  }
+  .contactos_utp {
+    font-size: 6px;
+  }
+  .aplicaciones {
+    margin-left: 5px;
+  }
+  ul li {
+    margin-left: 10px;
+  }
+  .aplicaciones {
+    margin-left: 20px;
+  }
+  ul li {
+    margin-left: 10px;
   }
 }
