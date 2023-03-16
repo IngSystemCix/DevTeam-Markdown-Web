@@ -4,6 +4,14 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+summary{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0081c9;
+  padding: 0px 0px 10px 0px;
+  margin: 15px 15px 0px 15px;
+  cursor: pointer;
+}
+
 .contenido_informativo {
   margin-top: 3rem;
   display: grid;
