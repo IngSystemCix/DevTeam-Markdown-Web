@@ -96,6 +96,20 @@ summary{
   visibility: hidden;
 }
 
+details{
+  text-align: center;
+}
+
+.desplegable{
+  padding-top: 8px;
+  box-shadow: 1px 1px 7px #0081c9;
+  border-radius: 15px;
+}
+
+.desplegable:hover{
+  color: white;
+}
+
 .card:hover .pie_foto {
   left: 0;
   opacity: 1;
@@ -199,5 +213,10 @@ summary{
   .contenido_informativo .card .pie_foto {
     width: 90%;
     padding: 35px;
+  }
+
+  .desplegable{
+    padding: 5px 15px;
+    margin-top: 40px;
   }
 }
