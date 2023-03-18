@@ -1,6 +1,6 @@
 # DevTeam-Markdown-Web | Collaborative work
 
-![Logo pagina]("img/logo_de_devteam.png")
+
 
 ## Integrantes del equipo:
    |Nº| Nombre y apellido|
