@@ -1,4 +1,4 @@
-## 1.	DevTeam Markdown Web
+## DevTeam Markdown Web
 
 **Objetivo del proyecto:**
 Construir una web para nuestro equipo de desarrollo (devteam).
@@ -29,12 +29,13 @@ Construir una web para nuestro equipo de desarrollo (devteam).
 
 ![vSCODE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRer-ItBiFdg_LFs5Cp6GpvrORFaM-gKWI4-g&usqp=CAU)
 
-# Características del proyecto:
+## Características del proyecto:
 -	Diseño minimalista y agradable al usuario.
 -	Información sobre los diversos proyectos de la DEVTEAM.
-# Integrantes del equipo: |
-   | 1 | Bustamante Inoach, Cesar Abel |
+## Integrantes del equipo:
+   |Nº| Nombre y apellido|
    | --- | --- |
+   | 1 | Bustamante Inoach, Cesar Abel |
    | 2 | Cubas Parra, Abner Atali |
    | 3 | Estrada Quiroz, Andrés Eduardo |
    | 4 | Ibañez Cornejo, Anthony Daniel  |
@@ -50,4 +51,3 @@ Construir una web para nuestro equipo de desarrollo (devteam).
    | 14 | Sanandres Vela, Juan Piero Aarón |
    | 15 | Vasquez Villegas, Kevin Jeferson |
    | 16 | Vera Fernandez, Angel Fabian |
-
