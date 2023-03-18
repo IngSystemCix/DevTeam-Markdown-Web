@@ -2,6 +2,8 @@
 
 ![logo](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/logo_de_DevTeam_sin_fondo.png?raw=true)
 
+## Finished project: 13/03/2023
+
 ## Team members:
    |Nº| First and last name|
    | --- | --- |
@@ -21,8 +23,6 @@
    | 14 | Sanandres Vela, Juan Piero Aarón |
    | 15 | Vasquez Villegas, Kevin Jeferson |
    | 16 | Vera Fernandez, Angel Fabian |
-
-# Finished project: 13/03/2023
 
 ## Tools used in the project:
 
