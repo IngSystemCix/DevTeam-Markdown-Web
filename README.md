@@ -1,6 +1,6 @@
 # DevTeam-Markdown-Web | Collaborative work
 
-![logo](Proyecto_html_y_css\img\logo_de_DevTeam_sin_fondo.png)
+![logo](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/logo_de_DevTeam_sin_fondo.png?raw=true)
 
 ## Team members:
    |Nº| First and last name|
