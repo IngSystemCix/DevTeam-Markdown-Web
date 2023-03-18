@@ -1,9 +1,9 @@
 # DevTeam-Markdown-Web | Collaborative work
 
+![logo](Proyecto_html_y_css\img\logo_de_DevTeam_sin_fondo.png)
 
-
-## Integrantes del equipo:
-   |Nº| Nombre y apellido|
+## Team members:
+   |Nº| First and last name|
    | --- | --- |
    | 1 | Bustamante Inoach, Cesar Abel |
    | 2 | Cubas Parra, Abner Atali |
@@ -22,8 +22,27 @@
    | 15 | Vasquez Villegas, Kevin Jeferson |
    | 16 | Vera Fernandez, Angel Fabian |
 
-# Proyecto finalizado: 13/03/2023
-## comandos usados:
+# Finished project: 13/03/2023
+
+## Tools used in the project:
+
+* Md, Html, Css, Js.
+* Vscode.
+* PanDoc.
+
+## Used commands (English :us:):
+
+**Important:** Navigate to the directory where the MarkDown file you want to convert is located.
+
+This command is used to be able to convert *.md files to *.html
+
+```
+pandoc -f markdown -t html archivo.md -o archivo.html
+```
+
+## Used commands (Spanish 🇵🇪):
+
+**Importante:** Navega hasta el directorio donde se encuentra el archivo MarkDown que deseas convertir.
 
 Este comando se usa para poder convertir archivos *.md a *.html
 
