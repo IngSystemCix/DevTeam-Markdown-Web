@@ -2,6 +2,7 @@
 
 ![logo](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/logo_de_DevTeam_sin_fondo.png?raw=true)
 
+## Project start: 07/03/2023
 ## Finished project: 13/03/2023
 
 ## Team members:
@@ -58,7 +59,7 @@
 This command is used to be able to convert *.md files to *.html
 
 ```
-pandoc -f markdown -t html archivo.md -o archivo.html
+pandoc -f markdown -t html file_name.md -o file_name.html
 ```
 
 ## Used commands (Spanish 🇵🇪):
@@ -67,6 +68,6 @@ pandoc -f markdown -t html archivo.md -o archivo.html
 
 Este comando se usa para poder convertir archivos *.md a *.html
 
-```
-pandoc -f markdown -t html archivo.md -o archivo.html
+```fix
+pandoc -f markdown -t html nombre_archivo.md -o nombre_archivo.html
 ```
