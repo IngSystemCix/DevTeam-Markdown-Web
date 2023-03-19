@@ -68,6 +68,6 @@ pandoc -f markdown -t html file_name.md -o file_name.html
 
 Este comando se usa para poder convertir archivos *.md a *.html
 
-```fix
+```
 pandoc -f markdown -t html nombre_archivo.md -o nombre_archivo.html
 ```
