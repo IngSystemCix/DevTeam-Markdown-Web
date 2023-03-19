@@ -42,23 +42,23 @@ El equipo de desarrollo de DevTeam se asegura de que la página web esté optimi
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="120" alt = "html css js">
 
-* **Vscode:**
+* [**Vscode:**](https://code.visualstudio.com/Download)
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/vscode.png?raw=true" width="300" height="150" alt = "vscode">
 
-* **PanDoc:**
+* [**PanDoc:**](https://pandoc.org/)
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/pandoc.png?raw=true" width="300" height="150" alt = "pandoc">
 
-* **MarkDown:**
+* [**MarkDown:**](https://www.markdownguide.org/)
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/markdown.png?raw=true" width="300" height="250" alt = "markdown">
 
-* **WinSCP:**
+* [**WinSCP:**](https://winscp.net/eng/docs/portable)
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/winscp.png?raw=true" width="300" height="250" alt = "winscp">
 
-* **putty:**
+* [**putty:**](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/putty.png?raw=true" width="300" height="250" alt = "putty">
 
