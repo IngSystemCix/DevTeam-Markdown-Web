@@ -28,7 +28,7 @@
 
 * **Html, Css, Js:**
 
-![html css js](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true)
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="200" alt = "html css js">
 
 * **Vscode:**
 
