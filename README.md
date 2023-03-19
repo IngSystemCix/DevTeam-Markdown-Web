@@ -19,7 +19,7 @@
    | 9 | Mundaca Mori, Alvaro Mitchel |
    | 10 | Pastor Juárez, Karol Estefani |
    |11 | Ramos Marrufo, Daniel David  |
-   | 12 |Romero Collazos, Juan Bladimir |
+   | 12 |Romero Collazos, Juan Bladimir | [INGSYSTEM](https://github.com/INGSYSTEM) |
    | 13 | Salazar Soplaouco, Franco Alexis |
    | 14 | Sanandres Vela, Juan Piero Aarón |
    | 15 | Vasquez Villegas, Kevin Jeferson |
