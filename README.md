@@ -28,27 +28,27 @@
 
 * **Html, Css, Js:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="120" alt = "html css js">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="120" alt = "html css js" style = "border-radius: 15px; box-shadow: 1px 1px 15px #fff; padding: 10px;">
 
 * **Vscode:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/vscode.png?raw=true" width="300" height="150" alt = "vscode">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/vscode.png?raw=true" width="300" height="150" alt = "vscode" style = "border-radius: 15px; box-shadow: 1px 1px 15px #fff; padding: 10px;">
 
 * **PanDoc:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/pandoc.png?raw=true" width="300" height="150" alt = "pandoc">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/pandoc.png?raw=true" width="300" height="150" alt = "pandoc" style = "border-radius: 15px; box-shadow: 1px 1px 15px #fff; padding: 10px;">
 
 * **MarkDown:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/markdown.png?raw=true" width="300" height="250" alt = "markdown">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/markdown.png?raw=true" width="300" height="250" alt = "markdown" style = "border-radius: 15px; box-shadow: 1px 1px 15px #fff; padding: 10px;">
 
 * **WinSCP:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/winscp.png?raw=true" width="300" height="250" alt = "winscp">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/winscp.png?raw=true" width="300" height="250" alt = "winscp" style = "border-radius: 15px; box-shadow: 1px 1px 15px #fff; padding: 10px;">
 
 * **putty:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/putty.png?raw=true" width="300" height="250" alt = "putty">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/putty.png?raw=true" width="300" height="250" alt = "putty" style = "border-radius: 15px; box-shadow: 1px 1px 15px #fff; padding: 10px;">
 
 
 ## Used commands (English :us:):
