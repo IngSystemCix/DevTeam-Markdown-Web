@@ -25,10 +25,16 @@
    | 15 | Vasquez Villegas, Kevin Jeferson |
    | 16 | Vera Fernandez, Angel Fabian |
 
-## Project information:
+## Project information (English :us:):
 
 <p style="text-align: justify;">
 The DevTeam development team ensures that the website is search engine optimized, easy to navigate and provides an exceptional user experience. They also take care of creating relevant and engaging content such as articles and videos to keep interested visitors informed and up-to-date on the competition.
+</p>
+
+## Project information (Spanish 🇵🇪):
+
+<p style="text-align: justify;">
+El equipo de desarrollo de DevTeam se asegura de que la página web esté optimizada para motores de búsqueda, sea fácil de navegar y proporcione una experiencia de usuario excepcional. También se encargan de la creación de contenido relevante y atractivo, como artículos y videos, para mantener informados a los visitantes interesados y actualizados sobre la competencia.
 </p>
 
 ## Tools used in the project:
