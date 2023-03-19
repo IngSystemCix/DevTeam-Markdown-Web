@@ -10,16 +10,16 @@
    | --- | --- | --- |
    | 1 | Bustamante Inoach, Cesar Abel | [AbelBusi](https://github.com/AbelBusi) |
    | 2 | Estrada Quiroz, Andrés Eduardo | [Andresito19](https://github.com/Andresito19) |
-   | 3 | Ibañez Cornejo, Anthony Daniel  |
+   | 3 | Ibañez Cornejo, Anthony Daniel  | [Anthony012s](https://github.com/Anthony012s) |
    | 4 | Ibañez Chanamé, Ralph Junior | [junior-iba1904](https://github.com/junior-iba1904) |
    | 5 | Llapapasca Montes, Ronal James| [Jamesllm](https://github.com/Jamesllm) |
    | 6 | Matos Vitte, Gerald Kenneth |
-   | 7 | Medina Alvarado, Segundo Michael |
+   | 7 | Medina Alvarado, Segundo Michael | [m1chaelxde19](https://github.com/m1chaelxde19) |
    | 8 | Mundaca Mori, Alvaro Mitchel | [Alvaro-Mundaca](https://github.com/Alvaro-Mundaca) |
    | 9 | Pastor Juárez, Karol Estefani | [KarolPastor](https://github.com/KarolPastor) |
    | 10 | Ramos Marrufo, Daniel David  | [daramoss03](https://github.com/daramoss03) |
    | 11 | Romero Collazos, Juan Bladimir | [INGSYSTEM](https://github.com/INGSYSTEM) |
-   | 12 | Salazar Soplaouco, Franco Alexis |
+   | 12 | Salazar Soplaouco, Franco Alexis | [Ale3P](https://github.com/Ale3P) |
    | 13 | Sanandres Vela, Juan Piero Aarón | [Dark-JuanpiDev](https://github.com/Dark-JuanpiDev) |
    | 14 | Vasquez Villegas, Kevin Jeferson | [kevin11jeferson](https://github.com/kevin11jeferson) |
    | 15 | Vera Fernandez, Angel Fabian | [angelve03](https://github.com/angelve03) |
@@ -27,7 +27,7 @@
 ## Project information (English :us:):
 
 <p style="text-align: justify;">
-The DevTeam development team ensures that the website is search engine optimized, easy to navigate and provides an exceptional user experience. They also take care of creating relevant and engaging content such as articles and videos to keep interested visitors informed and up-to-date on the competition.
+The DevTeam makes sure that the search engine website is optimized, easy to navigate and provides an exceptional user experience. They also take care of creating relevant and engaging content such as articles and videos to keep visitors interested, informed and up-to-date on the competition.
 </p>
 
 ## Project information (Spanish 🇵🇪):
