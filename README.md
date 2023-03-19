@@ -26,9 +26,12 @@
 
 ## Tools used in the project:
 
-* Md, Html, Css, Js.
+* Html, Css, Js.
+
 * Vscode.
 * PanDoc.
+* MarkDown.
+* WinSCP y putty.
 
 ## Used commands (English :us:):
 
