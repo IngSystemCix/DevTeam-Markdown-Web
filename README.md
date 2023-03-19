@@ -8,22 +8,21 @@
 ## Team members:
    |Nº| First and last name| Git Hub |
    | --- | --- | --- |
-   | 1 | Bustamante Inoach, Cesar Abel |
-   | 2 | Cubas Parra, Abner Atali |
-   | 3 | Estrada Quiroz, Andrés Eduardo |
-   | 4 | Ibañez Cornejo, Anthony Daniel  |
-   | 5 | Ibañez Chanamé, Ralph Junior |
-   | 6 | Llapapasca Montes, Ronal James|
-   | 7 | Matos Vitte, Gerald Kenneth |
-   | 8 | Medina Alvarado, Segundo Michael |
-   | 9 | Mundaca Mori, Alvaro Mitchel |
-   | 10 | Pastor Juárez, Karol Estefani |
-   |11 | Ramos Marrufo, Daniel David  |
-   | 12 |Romero Collazos, Juan Bladimir | [INGSYSTEM](https://github.com/INGSYSTEM) |
-   | 13 | Salazar Soplaouco, Franco Alexis |
-   | 14 | Sanandres Vela, Juan Piero Aarón |
-   | 15 | Vasquez Villegas, Kevin Jeferson |
-   | 16 | Vera Fernandez, Angel Fabian |
+   | 1 | Bustamante Inoach, Cesar Abel | [AbelBusi](https://github.com/AbelBusi) |
+   | 2 | Estrada Quiroz, Andrés Eduardo | [Andresito19](https://github.com/Andresito19) |
+   | 3 | Ibañez Cornejo, Anthony Daniel  |
+   | 4 | Ibañez Chanamé, Ralph Junior | [junior-iba1904](https://github.com/junior-iba1904) |
+   | 5 | Llapapasca Montes, Ronal James| [Jamesllm](https://github.com/Jamesllm) |
+   | 6 | Matos Vitte, Gerald Kenneth |
+   | 7 | Medina Alvarado, Segundo Michael |
+   | 8 | Mundaca Mori, Alvaro Mitchel | [Alvaro-Mundaca](https://github.com/Alvaro-Mundaca) |
+   | 9 | Pastor Juárez, Karol Estefani | [KarolPastor](https://github.com/KarolPastor) |
+   | 10 | Ramos Marrufo, Daniel David  | [daramoss03](https://github.com/daramoss03) |
+   | 11 | Romero Collazos, Juan Bladimir | [INGSYSTEM](https://github.com/INGSYSTEM) |
+   | 12 | Salazar Soplaouco, Franco Alexis |
+   | 13 | Sanandres Vela, Juan Piero Aarón | [Dark-JuanpiDev](https://github.com/Dark-JuanpiDev) |
+   | 14 | Vasquez Villegas, Kevin Jeferson | [kevin11jeferson](https://github.com/kevin11jeferson) |
+   | 15 | Vera Fernandez, Angel Fabian | [angelve03](https://github.com/angelve03) |
 
 ## Project information (English :us:):
 
