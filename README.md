@@ -26,12 +26,30 @@
 
 ## Tools used in the project:
 
-* Html, Css, Js.
+* **Html, Css, Js:**
 
-* Vscode.
-* PanDoc.
-* MarkDown.
-* WinSCP y putty.
+![html css js](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true)
+
+* **Vscode:**
+
+![vscode](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/vscode.png?raw=true)
+
+* **PanDoc:**
+
+![pandoc](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/pandoc.png?raw=true)
+
+* **MarkDown:**
+
+![markdown](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/markdown.png?raw=true)
+
+* **WinSCP:**
+
+![winscp](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/winscp.png?raw=true)
+
+* **putty:**
+
+![putty](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/putty.png?raw=true)
+
 
 ## Used commands (English :us:):
 
