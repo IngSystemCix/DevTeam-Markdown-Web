@@ -38,7 +38,7 @@ El equipo de desarrollo de DevTeam se asegura de que la página web esté optimi
 
 ## Tools used in the project:
 
-* **Html, Css, Js:**
+* **HTML5:**
 
 <img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="120" alt = "html css js">
 
