@@ -2,8 +2,8 @@
 
 ![logo](https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/logo_de_DevTeam_sin_fondo.png?raw=true)
 
-## Project start: 07/03/2023
-## Finished project: 13/03/2023
+### Project start: 07/03/2023
+### Finished project: 13/03/2023
 
 ## Team members:
    |Nº| First and last name| Git Hub |
@@ -24,6 +24,12 @@
    | 14 | Sanandres Vela, Juan Piero Aarón |
    | 15 | Vasquez Villegas, Kevin Jeferson |
    | 16 | Vera Fernandez, Angel Fabian |
+
+## Project information:
+
+<p style="text-align: justify;">
+The DevTeam development team ensures that the website is search engine optimized, easy to navigate and provides an exceptional user experience. They also take care of creating relevant and engaging content such as articles and videos to keep interested visitors informed and up-to-date on the competition.
+</p>
 
 ## Tools used in the project:
 
