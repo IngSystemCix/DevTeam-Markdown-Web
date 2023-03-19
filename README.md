@@ -28,7 +28,7 @@
 
 * **Html, Css, Js:**
 
-<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="120" alt = "html css js" style = "border-radius: 15px; box-shadow: 1px 1px 15px #19A7CE; padding: 10px;">
+<img src="https://github.com/INGSYSTEM/DevTeam-Markdown-Web/blob/main/Proyecto_html_y_css/img/html_css_js.png?raw=true" width="300" height="120" alt = "html css js">
 
 * **Vscode:**
 
