@@ -5,8 +5,8 @@
 ## Finished project: 13/03/2023
 
 ## Team members:
-   |Nº| First and last name|
-   | --- | --- |
+   |Nº| First and last name| Git Hub |
+   | --- | --- | --- |
    | 1 | Bustamante Inoach, Cesar Abel |
    | 2 | Cubas Parra, Abner Atali |
    | 3 | Estrada Quiroz, Andrés Eduardo |
